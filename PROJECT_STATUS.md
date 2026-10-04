@@ -1,0 +1,22 @@
+# Project Status
+
+- [x] Repository structure
+- [x] Requirements
+- [x] Configuration
+- [x] Text encoder
+- [x] Audio encoder
+- [x] Visual encoder
+- [x] Evidence gating
+- [x] Cause encoding
+- [x] Evidence-cause attention
+- [x] Feature gating
+- [x] Training pipeline
+- [x] Evaluation metrics
+- [x] Ablation configuration
+- [x] Streamlit dashboard
+- [x] Academic report template
+- [ ] Download and prepare MELD
+- [ ] Train model
+- [ ] Record actual metrics
+- [ ] Add confusion matrix/results figures
+- [ ] Add trained checkpoint if size permits
